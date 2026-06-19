@@ -88,11 +88,9 @@ Use this table to get a quick side-by-side view of how each tool performed acros
 
 A few things this table makes clear at a glance:
 
-**Every tool in this comparison is beginner friendly - the difference is what you get out of them.**
-
-**PixAI is the only tool with dedicated anime models and LoRA support, which directly explains why its anime style accuracy and character consistency lead the table.**
-
-**Gemini and ChatGPT produce strong results but without anime-specific controls, consistency depends entirely on how the model interprets your prompt on any given day.**
+- Every tool in this comparison is beginner friendly - the difference is what you get out of them.
+- PixAI is the only tool with dedicated anime models and LoRA support, which directly explains why its anime style accuracy and character consistency lead the table.
+- Gemini and ChatGPT produce strong results but without anime-specific controls, consistency depends entirely on how the model interprets your prompt on any given day.
 
 ## Why PixAI Is Different for Anime-Style Generation
 Most free AI image generators can create anime-inspired images, but PixAI is built specifically for anime creation. Instead of treating anime as just another art style, the platform provides anime-focused models, character tools, and customization features designed for anime artists and fans. 
