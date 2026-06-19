@@ -67,6 +67,13 @@ Microsoft Image Creator is free to use, but generation speeds may slow after you
 Microsoft Image Creator works best when you need a quick anime-style image with no setup, no learning curve, and no cost. Choose it if you're not too concerned about fine-tuning the result.
 ### Gemini – Best for Creating Anime Scenes Where the Background Matters as Much as the Character
 Gemini is Google's AI assistant, and image generation is one of its built-in features on the free plan. You don’t need to download a separate app. Simply type your prompt into Gemini, and it generates an image in seconds. For users already in the Google ecosystem, it's the most frictionless option on this list.
+
+<p align="center">
+  <img width="380" alt="Gemini output using the test prompt" src="https://github.com/user-attachments/assets/988b916d-a414-408f-a616-086e7ceb8b61" />
+</p>
+
+<p align="center"><em>Gemini's output using the test prompt</em></p>
+
 #### Anime Style Performance
 In our test, Microsoft Image Creator delivered a solid anime result. The character has big expressive anime eyes, silver hair, a navy uniform, and a red ribbon - all four key character details from the prompt. The cherry blossom background is clean and well-placed. 
 However, the composition crops the character's head slightly at the top of the frame, which is a noticeable flaw for a prompt that explicitly asked for a full-body centered image. The style also leans toward classic TV anime rather than the more polished, modern aesthetic you'd find in anime-native tools, giving the output a slightly flat look compared to the other results in this comparison.
