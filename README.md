@@ -81,16 +81,15 @@ However, the composition crops the character's head slightly at the top of the f
 Microsoft Image Creator is free to use, but generation speeds may slow after your priority boosts are used up. Users who generate images frequently may notice longer wait times compared to their initial generations. 
 #### Best For
 Microsoft Image Creator works best when you need a quick anime-style image with no setup, no learning curve, and no cost. Choose it if you're not too concerned about fine-tuning the result.
-### Gemini – Best for Creating Anime Scenes Where the Background Matters as Much as the Character
-Gemini is Google's AI assistant, and image generation is one of its built-in features on the free plan. You don’t need to download a separate app. Simply type your prompt into Gemini, and it generates an image in seconds. For users already in the Google ecosystem, it's the most frictionless option on this list.
-#### Anime Style Performance
-Gemini produced one of the strongest results in our test. The character has silver hair, a navy uniform, a red ribbon, and a full-body composition. Where Gemini genuinely stands out is the background: the cherry blossom park scene is immersive, richly detailed, and beautifully lit, with petals visibly falling across the entire frame. The character feels slightly small within the scene, which suggests Gemini prioritizes environment over character, but the overall image is vibrant and visually impressive.
-#### Free Plan Limitations
-Gemini includes image generation on the free plan, although availability, usage limits, and feature access may change over time. Heavy users may eventually encounter restrictions that require waiting or upgrading to a paid plan. 
-#### Best For
-Gemini works best when the scene itself is as important as the character; for instance, when you need an atmospheric anime-style illustration rather than a precise character render.
 ### ChatGPT – Best for Polished Anime Art with a Creative Twist
 Beyond answering questions and writing text, ChatGPT also generates images directly inside the chat interface on the free plan. Just type your prompt into the same chat window you'd use for anything else, and the image appears within seconds.
+
+<p align="center">
+  <img width="380" alt="ChatGPT output using the test prompt" src="https://github.com/user-attachments/assets/8c26ecc7-afd5-4be3-bdd0-bd5a138c05ee" />
+</p>
+
+<p align="center"><em>ChatGPT's output using the test prompt</em></p>
+
 ### Anime Style Performance
 ChatGPT produced the most visually polished result among the competitor tools in this comparison. The character has silver hair, a red ribbon, and a full-body composition. The cherry blossom background is detailed and well-lit, and the overall image quality is impressive. However, ChatGPT took noticeable creative liberties. It added a school bag that wasn't in the prompt. The uniform looks more like a dark blazer than a navy sailor-style uniform. The result is beautiful, but it reflects ChatGPT's interpretation of the prompt rather than a faithful execution of it.
 #### Free Plan Limitations
@@ -99,6 +98,13 @@ ChatGPT's free plan includes image generation, but the number of images you can 
 ChatGPT works best when you want a high-quality, visually striking anime-style image and you're comfortable letting the AI make some creative decisions along the way. If prompt accuracy matters to you, you may want to look elsewhere.
 ### PixAI – Best for Exact, Authentic Anime Generation
 PixAI is an AI image generator built specifically for anime. Unlike the general-purpose tools in this comparison, every model, feature, and setting on the platform is built to streamline anime art generation. You get access to multiple anime-tuned models on the free plan, with no watermarks and no compromise on output quality.
+
+<p align="center">
+  <img width="380" alt="PixAI output using the test prompt" src="https://github.com/user-attachments/assets/ca775ed5-b236-445a-95d5-4842e06c7268" />
+</p>
+
+<p align="center"><em>PixAI's output using the test prompt</em></p>
+
 #### Anime Style Performance
 PixAI delivered the strongest overall results in our test. The character has big expressive anime eyes, long silver hair, a navy sailor-style uniform, and a red ribbon. The cherry blossom background is immersive, with falling petals integrated naturally into the scene. The wind movement in the hair is fluid and dynamic. Every prompt detail was present in the final output. More importantly, the output looks like real anime art rather than a pretty illustration or a general AI image with anime-style eyes. 
 #### Free Plan Limitations
