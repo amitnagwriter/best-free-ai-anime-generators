@@ -52,7 +52,11 @@ Canva works best when you're already building something in Canva. For instance, 
 ### Microsoft Image Creator – Best for Getting a Decent Anime Image in Under a Minute
 Microsoft Image Creator is part of Microsoft Designer and offers one of the simplest ways to generate AI images for free. It requires only a Microsoft account, which many users already have, and can typically generate images within seconds. For anyone who wants to try AI image generation without downloading software or learning a new platform, it's the simplest starting point on this list.
 
-<img width="1024" height="1024" alt="Microsoft Anime girl image" src="https://github.com/user-attachments/assets/a8c7db2e-bdd0-4455-9adc-ed9a7104b672" />
+<p align="center">
+  <img width="380" alt="Microsoft Image Creator output using the test prompt" src="https://github.com/user-attachments/assets/a8c7db2e-bdd0-4455-9adc-ed9a7104b672" />
+</p>
+
+<p align="center"><em>Microsoft Image Creator's output using the test prompt</em></p>
 
 #### Anime Style Performance
 In our test, Microsoft Image Creator delivered a solid anime result. The character has big expressive anime eyes, silver hair, a navy uniform, and a red ribbon - all four key character details from the prompt. The cherry blossom background is clean and well-placed. 
