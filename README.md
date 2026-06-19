@@ -22,9 +22,13 @@ Here's the prompt we used:
 
 We didn't write this prompt randomly. Every detail is intentional. Each element is designed to test something specific:
 Every tool receives this same input. We used the default image generation settings available on each platform's free plan and did not manually edit or enhance any results. Once we had the outputs, we evaluated each tool across three criteria:
+
 **Anime style accuracy:** Does the result actually look like anime, or does it resemble a realistic portrait, a digital painting, or a generic AI image? 
+
 **Character consistency:** Are the specific character details preserved? Is the hair silver? Is the uniform navy? Is the ribbon red?
+
 **Overall image quality:** Does the composition feel balanced and visually appealing? Is the lighting well-integrated? Is the background rendered naturally?
+
 ## Best Free AI Anime Generators (Same Prompt Comparison)
 Below are the results from our same-prompt test across five free AI anime generators. Each tool received the exact same input with no modifications. Here's how they performed. 
 ### Canva – Best for Generating Anime Images While Working on a Design Project
