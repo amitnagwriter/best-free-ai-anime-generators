@@ -21,6 +21,9 @@ Here's the prompt we used:
 "A teenage girl with big expressive eyes and long silver hair, wearing a navy school uniform with a red ribbon, standing in a park full of cherry blossoms, soft and colorful anime style, wind blowing her hair, warm sunny lighting, full-body character centered in the image."
 
 We didn't write this prompt randomly. Every detail is intentional. Each element is designed to test something specific:
+
+<img width="602" height="444" alt="Prompt breakdown table" src="https://github.com/user-attachments/assets/207e9604-312a-4e1c-ac87-a2b35a4d2184" />
+
 Every tool receives this same input. We used the default image generation settings available on each platform's free plan and did not manually edit or enhance any results. Once we had the outputs, we evaluated each tool across three criteria:
 
 **Anime style accuracy:** Does the result actually look like anime, or does it resemble a realistic portrait, a digital painting, or a generic AI image? 
