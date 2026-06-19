@@ -146,6 +146,8 @@ This helps narrow the gap between a beginner's rough prompt and a more carefully
 
 <p align="center"><em>PixAI's generation interface</em></p>
 
+
+
 <p align="center">
   <img width="600" alt="PixAI Prompt Helper interface" src="YOUR_IMAGE_URL_HERE" />
 </p>
