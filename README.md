@@ -114,6 +114,8 @@ PixAI works best when you already know exactly what you want. For instance, choo
 ## Free AI Anime Generator Comparison Table
 Use this table to get a quick side-by-side view of how each tool performed across the criteria that matter most for anime generation.
 
+<img width="590" height="209" alt="Comparison Table" src="https://github.com/user-attachments/assets/4fef6945-a154-4d23-bc5f-d644a17f28a3" />
+
 **Ratings reflect performance on the specific test prompt used in this comparison and are not intended as universal rankings. 
 
 A few things this table makes clear at a glance:
