@@ -139,6 +139,13 @@ During our test, the Prompt Helper was active. You can see exactly what it did i
 The first screenshot below shows the PixAI generation interface and the images generated during our test. The second shows how Prompt Helper transformed our simple test prompt into a much more detailed generation-ready description. The rewritten prompt added specifics such as depth of field, petal movement, fabric texture, and atmospheric mood. These details likely contributed to the quality and consistency of the final output. 
 
 This helps narrow the gap between a beginner's rough prompt and a more carefully optimized one.
+
+<p align="center">
+  <img width="600" alt="PixAI generation interface" src="https://github.com/user-attachments/assets/84252815-58cf-434b-9aa0-a3c75d2afc94" />
+</p>
+
+<p align="center"><em>PixAI's generation interface</em></p>
+
 ### Beginner-Friendly Workflow
 Despite its depth, PixAI is straightforward to use. Type a prompt, choose a model, and hit generate. The free plan produces four variations per generation. You can compare results and pick the best one without regenerating from scratch. Style presets on the right panel let you adjust the aesthetic with a single click, without touching the prompt at all.
 
