@@ -82,13 +82,13 @@ Gemini is Google's AI assistant, and image generation is one of its built-in fea
 
 <p align="center"><em>Gemini's output using the test prompt</em></p>
 
-#### Anime Style Performance
-In our test, Microsoft Image Creator delivered a solid anime result. The character has big expressive anime eyes, silver hair, a navy uniform, and a red ribbon - all four key character details from the prompt. The cherry blossom background is clean and well-placed. 
-However, the composition crops the character's head slightly at the top of the frame, which is a noticeable flaw for a prompt that explicitly asked for a full-body centered image. The style also leans toward classic TV anime rather than the more polished, modern aesthetic you'd find in anime-native tools, giving the output a slightly flat look compared to the other results in this comparison.
+#### Anime Style Performance 
+Gemini produced one of the strongest results in our test. The character has silver hair, a navy uniform, a red ribbon, and a full-body composition. Where Gemini genuinely stands out is the background: the cherry blossom park scene is immersive, richly detailed, and beautifully lit, with petals visibly falling across the entire frame. The character feels slightly small within the scene, which suggests Gemini prioritizes environment over character, but the overall image is vibrant and visually impressive.
 #### Free Plan Limitations
-Microsoft Image Creator is free to use, but generation speeds may slow after your priority boosts are used up. Users who generate images frequently may notice longer wait times compared to their initial generations. 
+Gemini includes image generation on the free plan, although availability, usage limits, and feature access may change over time. Heavy users may eventually encounter restrictions that require waiting or upgrading to a paid plan. 
 #### Best For
-Microsoft Image Creator works best when you need a quick anime-style image with no setup, no learning curve, and no cost. Choose it if you're not too concerned about fine-tuning the result.
+Gemini works best when the scene itself is as important as the character; for instance, when you need an atmospheric anime-style illustration rather than a precise character render.
+
 ### ChatGPT – Best for Polished Anime Art with a Creative Twist
 Beyond answering questions and writing text, ChatGPT also generates images directly inside the chat interface on the free plan. Just type your prompt into the same chat window you'd use for anything else, and the image appears within seconds.
 
