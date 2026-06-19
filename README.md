@@ -136,6 +136,7 @@ A few things this table makes clear at a glance:
 Most free AI image generators can create anime-inspired images, but PixAI is built specifically for anime creation. Instead of treating anime as just another art style, the platform provides anime-focused models, character tools, and customization features designed for anime artists and fans. 
 ### Anime-Focused Models and LoRA
 PixAI gives you access to a model library directly within the generation interface. Instead of a single general-purpose model, you get a library of anime-tuned base models. Each one has its own aesthetic. Tsubaki.2, the model used in our test, is designed for anime image generation and performed particularly well at following the prompt while maintaining character consistency. Models such as Haruka v2 and Hoshino v2 offer different anime aesthetics, ranging from soft and illustrative to sharp and highly detailed. 
+
 On top of these base models, PixAI supports LoRA. LoRA stands for Low-Rank Adaptation. Think of the base model as a skilled anime artist. A LoRA is like handing that artist a reference sheet for a specific character, art style, or pose. The base model handles what it already knows. The LoRA fills in what it doesn't.
 
 PixAI's LoRA library covers five categories: Character, Style, Pose, Detail, and Other. This gives you precise control over almost every visual element in your image.
