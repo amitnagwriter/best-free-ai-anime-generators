@@ -169,15 +169,23 @@ Despite its depth, PixAI is straightforward to use. Type a prompt, choose a mode
 PixAI works for a complete beginner on day one. And it has enough depth to grow with you as your skills develop.
 ## Free vs Paid: What You Can Actually Do for Free
 One thing became clear during testing: “free” does not mean the same thing across every anime AI art generator.
+
 The most common restrictions are generation limits, slower processing speeds, and access to premium features such as advanced models, higher resolutions, or additional customization options. However, every tool in this comparison provides enough free access to generate images, experiment with prompts, and evaluate the results for yourself.
+
 The honest answer to 'can I use these tools for free?' is yes. The better question is whether the free output actually meets your needs. That's what the test results above are for. 
 ## Which AI Anime Generator Should You Choose?
 The right tool depends on what you're trying to do.
+
 If you're a beginner just exploring AI image generation for the first time, start with Gemini or Microsoft Image Creator. Both offer free access, require no setup, and can generate a result in seconds.
+
 If you're an OC or character creator who needs the output to match a specific character description, such as hair color, outfit details, and composition, use PixAI. It's the only tool in this comparison built specifically for anime, and it followed the prompt details more closely than the other tools in our test.
+
 If you're a content creator producing thumbnails, social posts, or scene-heavy illustrations, ChatGPT delivers polished results quickly. For richer backgrounds and more atmospheric scenes, Gemini is worth trying too.
+
 If your content features a recurring character; for instance, a mascot or original character used across multiple posts, then PixAI's model and LoRA system gives you more control over keeping that character consistent from image to image. 
 ## Conclusion
 Every tool in this comparison can generate an anime-style image from a text prompt. But as the test results show, there's a significant difference between an image that looks anime-adjacent and one that actually delivers on what you asked for.
+
 Gemini and ChatGPT produce visually impressive results. Microsoft Image Creator and Canva are easy starting points for casual use. But if anime is the goal and prompt accuracy matters, PixAI delivered the strongest results in our test across all three evaluation criteria: anime style accuracy, character consistency, and overall image quality.
+
 The best way to see the difference is to try it yourself. Start with the prompt we used in this comparison and run it through two or three tools. The results will show which one best matches your creative goals. If you want to start with the strongest free option for anime, you can try PixAI here.
