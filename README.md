@@ -146,6 +146,12 @@ This helps narrow the gap between a beginner's rough prompt and a more carefully
 
 <p align="center"><em>PixAI's generation interface</em></p>
 
+<p align="center">
+  <img width="600" alt="PixAI Prompt Helper interface" src="YOUR_IMAGE_URL_HERE" />
+</p>
+
+<p align="center"><em>PixAI's Prompt Helper automatically expands a simple prompt into a more detailed generation-ready description</em></p>
+
 ### Beginner-Friendly Workflow
 Despite its depth, PixAI is straightforward to use. Type a prompt, choose a model, and hit generate. The free plan produces four variations per generation. You can compare results and pick the best one without regenerating from scratch. Style presets on the right panel let you adjust the aesthetic with a single click, without touching the prompt at all.
 
