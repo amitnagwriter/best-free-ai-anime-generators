@@ -37,7 +37,11 @@ Below are the results from our same-prompt test across five free AI anime genera
 ### Canva – Best for Generating Anime Images While Working on a Design Project
 Canva is best known as a graphic design tool, but its Magic Media feature lets you generate AI images directly inside your design workspace. You don't need to switch between apps. Just type a prompt, generate, and drop the result straight into your design. That convenience is its biggest advantage.
 
-<img width="380" height="252" alt="Canva Anime girl" src="https://github.com/user-attachments/assets/882ada6d-f184-4ecb-b252-e67da23fa908" />
+<p align="center">
+  <img width="380" alt="Canva Anime girl" src="https://github.com/user-attachments/assets/882ada6d-f184-4ecb-b252-e67da23fa908">
+</p>
+
+<p align="center"><em>Canva's output using the test prompt</em></p>
 
 #### Anime Style Performance
 In our test, Canva produced a recognizable anime style with soft colors and clean character features. However, it interpreted the uniform as a dark blazer rather than a sailor-style navy uniform, and it failed to deliver a full-body shot as the prompt specified. The character is cropped at the waist or thigh, which is a direct failure to follow the composition instruction.
