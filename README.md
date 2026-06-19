@@ -1,3 +1,4 @@
+   <img width="1672" height="941" alt="thumbnail_AI anime tool comparison" src="https://github.com/user-attachments/assets/3982ede0-f950-49dc-b46f-0baf8ba6164a" />
 # Best Free AI Anime Generators (2026): Same Prompt Testing & Comparison
 If you've ever been let down by a free AI anime generator, you probably heard the same explanation: "Your AI outputs are only as good as your prompts."
 But that argument doesn't help much if you're a beginner with no drawing or prompt-writing skills.
