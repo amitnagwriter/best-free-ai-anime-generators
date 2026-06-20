@@ -118,7 +118,7 @@ PixAI delivered the strongest overall results in our test. The character has big
 #### Free Plan Limitations
 PixAI's free plan includes a daily credit allocation that refreshes regularly. While this limits how many images you can generate in a single session, it provides enough credits to explore the platform and create anime-style artwork without an upfront cost. 
 #### Best For
-PixAI works best when you already know exactly what you want. For instance, choose it when you have a specific character in mind and need the output to match - down to the hair color, outfit, and composition. If you've tried other tools and walked away with something that looked almost right, PixAI is where you go next.
+PixAI works best when you already know exactly what you want. For instance, choose it when you have a specific character in mind and need the output to match - down to the hair color, outfit, and composition. If you've tried other tools and walked away with something that looked almost right, [PixAI] (https://pixai.art/en?utm_source=amit&utm_medium=article&utm_campaign=bestaianime) is where you go next.
 ## Free AI Anime Generator Comparison Table
 Use this table to get a quick side-by-side view of how each tool performed across the criteria that matter most for anime generation.
 
@@ -188,4 +188,4 @@ Every tool in this comparison can generate an anime-style image from a text prom
 
 Gemini and ChatGPT produce visually impressive results. Microsoft Image Creator and Canva are easy starting points for casual use. But if anime is the goal and prompt accuracy matters, PixAI delivered the strongest results in our test across all three evaluation criteria: anime style accuracy, character consistency, and overall image quality.
 
-The best way to see the difference is to try it yourself. Start with the prompt we used in this comparison and run it through two or three tools. The results will show which one best matches your creative goals. If you want to start with the strongest free option for anime, you can try PixAI here.
+The best way to see the difference is to try it yourself. Start with the prompt we used in this comparison and run it through two or three tools. The results will show which one best matches your creative goals. If you want to start with the strongest free option for anime, you can try [PixAI here] (https://pixai.art/en?utm_source=amit&utm_medium=article&utm_campaign=bestaianime).
