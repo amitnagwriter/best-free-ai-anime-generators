@@ -118,7 +118,7 @@ PixAI delivered the strongest overall results in our test. The character has big
 #### Free Plan Limitations
 PixAI's free plan includes a daily credit allocation that refreshes regularly. While this limits how many images you can generate in a single session, it provides enough credits to explore the platform and create anime-style artwork without an upfront cost. 
 #### Best For
-PixAI works best when you already know exactly what you want. For instance, choose it when you have a specific character in mind and need the output to match - down to the hair color, outfit, and composition. If you've tried other tools and walked away with something that looked almost right, <a href="https://pixai.art/en?utm_source=amit&utm_medium=article&utm_campaign=bestaianime">PixAI</a> is where you go next.
+PixAI works best when you already know exactly what you want. For instance, choose it when you have a specific character in mind and need the output to match - down to the hair color, outfit, and composition. If you've tried other tools and walked away with something that looked almost right, [PixAI](https://pixai.art/en) is where you go next.
 ## Free AI Anime Generator Comparison Table
 Use this table to get a quick side-by-side view of how each tool performed across the criteria that matter most for anime generation.
 
