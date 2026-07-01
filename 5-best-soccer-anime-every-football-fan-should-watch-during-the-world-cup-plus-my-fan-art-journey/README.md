@@ -32,6 +32,8 @@ One scene that stuck with me is when Isagi chooses to challenge a tough player i
 
 The rest of the show lives up to that opening. Isagi keeps rewiring how he sees the game. And then there's Bachira. Feral, unpredictable, weirdly endearing. Everyone ends up loving him anyway.
 
+<img width="425" height="532" alt="Isagi and Bachira quickly became two of my favorite characters in Blue Lock" src="https://github.com/user-attachments/assets/e0cd9228-ea2b-4e23-948a-e7905cb9c31d" />
+
 *Isagi and Bachira quickly became two of my favorite characters in Blue Lock*
 
 **Captain Tsubasa**
