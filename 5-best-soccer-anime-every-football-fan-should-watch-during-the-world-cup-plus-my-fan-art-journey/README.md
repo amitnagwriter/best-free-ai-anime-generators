@@ -46,6 +46,8 @@ What stands out watching it during a World Cup specifically is how international
 
 The visual style is classic and old-school, with bold lines, exaggerated kicks that seem to defy physics, but that's part of the charm.
 
+<img width="485" height="660" alt="Captain Tsubasa reminds us why we love football  copy" src="https://github.com/user-attachments/assets/2be6c439-fe91-41d7-92f7-67d1cb0b3c48" />
+
 *Captain Tsubasa reminds us why we love football*
 
 **Ao Ashi**
@@ -56,6 +58,8 @@ That scene where Ashito's coach draws circles in the field and asks him to contr
 
 It's the one I'd recommend to someone who actually watches a lot of real football and wants an anime that respects the tactical side of the sport instead of turning every match into a superpower showdown. The visual style matches that tone. It's grounded and controlled, with the occasional burst of intensity when Ashito finally clicks into form.
 
+<img width="840" height="484" alt="Ao Ashi proves football is learned, not inherited" src="https://github.com/user-attachments/assets/af1e23f6-7704-4045-a774-5b6febd51cca" />
+
 *Ao Ashi proves football is learned, not inherited*
 
 **Giant Killing**
@@ -63,6 +67,8 @@ It's the one I'd recommend to someone who actually watches a lot of real footbal
 Most soccer anime put you on the pitch. Giant Killing puts you on the bench, next to the coach. It follows Tatsumi Takeshi, a coach with an unconventional approach, as he tries to drag a struggling team back into relevance.
 
 The anime feels different from the beginning, especially as Tatsumi takes office as a manager. On his first day, Tatsumi chooses to shake up the team hierarchy, instead of accepting the established starters. That moment immediately signals exactly what kind of manager he's going to be. 
+
+<img width="498" height="717" alt="Sometimes the biggest battles happen on the sidelines" src="https://github.com/user-attachments/assets/87fa8657-7400-4e50-a9dc-0b5f902a6e58" />
 
 *Sometimes the biggest battles happen on the sidelines*
 
@@ -82,6 +88,8 @@ After spending a few evenings with these anime, I found myself wanting to recrea
 
 The more matches I watched, the more I caught myself thinking, "That would make an awesome piece of soccer anime fan art." I even thought "Wouldn't it be great if I could make wallpapers or a fun piece of anime soccer art of my favorite characters and post them on social media during the World Cup?"
 
+<img width="1280" height="720" alt="Hero image V3" src="https://github.com/user-attachments/assets/d20d70bc-90fc-44fd-a277-9dae49a7aea9" />
+
 *One of my original soccer anime character designs*
 
 The curiosity eventually got the better of me, and I started experimenting with the idea. I didn't want to redraw the actual scene, but maybe just capture that same feeling with my own version of it. A character of my own, in my own composition, with that same dramatic stadium lighting and that same intensity.
@@ -91,6 +99,8 @@ The problem, for me, has always been the same one a lot of fans run into: I can'
 **How I Turned My World Cup Anime Binge Into Artwork**
 
 Drawing skills aside, I was clear about one thing from the beginning. I didn't want to recreate the exact scene. I wanted to recreate the feeling. That's exactly what I had in mind when I opened the anime art generator [PixAI](https://eap.pixai.art/go/amit) for the first time.
+
+<img width="1470" height="956" alt="Opening PixAI was where the experiment really began" src="https://github.com/user-attachments/assets/067e93b3-2d88-425f-9105-3d0dc1c7ddf8" />
 
 *Opening PixAI was where the experiment really began*
 
@@ -104,11 +114,15 @@ That's when I learned the actual trick to prompting on PixAI: naming the anime b
 
 That kind of breakdown gave the model something to actually work with. And PixAI's Prompt Helper turned out to be useful here too, since I could describe what I wanted in a normal sentence and let it convert that into something more structured before generating.
 
+<img width="1015" height="394" alt="Prompt Helper_I found it more effective to describe the feeling I wanted than simply naming an anime" src="https://github.com/user-attachments/assets/cb42fca0-c9c9-42db-941a-20c54da08010" />
+
 *I found it more effective to describe the feeling I wanted than simply naming an anime*
 
 A few rounds of tweaking later, I landed on an image that finally matched the mood in my head. It looked like my own striker in my own moment versus a redraw of a specific character.
 
 Turns out writing prompts is much easier than learning to draw.
+
+<img width="1280" height="720" alt="An original soccer anime striker created with PixAI after several rounds of prompt refinement" src="https://github.com/user-attachments/assets/d901ae62-f091-4a1f-85dd-2fddd28461a9" />
 
 *An original soccer anime striker created with PixAI after several rounds of prompt refinement*
 
@@ -122,6 +136,8 @@ This became my go-to whenever I wanted that high-energy Blue Lock feeling withou
 
  *"Determined teenage soccer striker sprinting toward goal, blue jersey, dynamic action pose, flying grass, dramatic stadium lighting, cel-shaded anime style, intense expression"*
 
+<img width="1427" height="621" alt="Prompt and result for a dynamic striker action scene" src="https://github.com/user-attachments/assets/2ebc0805-e368-45cf-92b4-c1fc1c28ec23" />
+
 *Prompt and result for a dynamic striker action scene*
 
 **Dramatic Goal Celebration**
@@ -129,6 +145,8 @@ This became my go-to whenever I wanted that high-energy Blue Lock feeling withou
 I found myself returning to this prompt whenever I wanted to recreate those unforgettable post-goal moments that make soccer anime so exciting.
 
 *"Young soccer player celebrating after scoring the winning goal, fists raised, roaring crowd, confetti, floodlights, vibrant anime illustration, emotional victory"*
+
+<img width="1428" height="715" alt="Prompt and result for a dramatic goal celebration scene" src="https://github.com/user-attachments/assets/e236ee65-9012-4033-9f01-2b4f923705fa" />
 
 *Prompt and result for a dramatic goal celebration scene*
 
@@ -138,6 +156,8 @@ This one worked best when I wanted the lighting itself to carry the scene, the k
 
 * "Original anime soccer player standing alone under bright stadium floodlights, rain falling, cinematic atmosphere, red jersey, dramatic shadows, detailed anime art"*
 
+<img width="1378" height="561" alt="Prompt and result for a dramatic stadium lighting scene" src="https://github.com/user-attachments/assets/1ee0fd84-b34e-4dac-9786-240b40e01174" />
+
 *Prompt and result for a dramatic stadium lighting scene*
 
 **Cel-Shaded Anime Style**
@@ -145,6 +165,8 @@ This one worked best when I wanted the lighting itself to carry the scene, the k
 For a cleaner anime look, focusing on the rendering style itself helped create a polished result without relying on a specific series.
 
 *"Original teenage soccer player portrait, cel-shaded anime style, clean line art, bold colors, soft shading, modern sports anime aesthetic, confident expression"*
+
+<img width="1286" height="626" alt="Prompt and result for a clean cel-shaded anime portrait" src="https://github.com/user-attachments/assets/d12d7d57-2d6a-45a9-b414-88ec4c5de5eb" />
 
 *Prompt and result for a clean cel-shaded anime portrait*
 
@@ -154,6 +176,8 @@ Close-up portraits worked especially well with this prompt, letting the expressi
 
 *"Close-up of a determined anime soccer striker, intense blue eyes, clenched jaw, beads of sweat, dramatic stadium lighting, emotional intensity, cinematic composition, detailed anime illustration, original character, looking directly at the viewer"*
 
+<img width="1411" height="626" alt="Using a facial-style LoRA alongside the prompt helped emphasize the character&#39;s expression" src="https://github.com/user-attachments/assets/7f1cf97a-a8de-48e8-821b-cdb02af1276f" />
+
 *Using a facial-style LoRA alongside the prompt helped emphasize the character's expression*
 
 **World Cup Atmosphere**
@@ -161,6 +185,8 @@ Close-up portraits worked especially well with this prompt, letting the expressi
 To recreate the excitement of the tournament itself, I leaned on this prompt to capture the feeling of walking into a packed stadium without copying any existing anime scene.
 
 *"Original anime soccer player walking onto the pitch before kickoff, wearing a national team jersey, packed stadium, waving national flags, roaring crowd, colorful fan scarves, dramatic pre-match atmosphere, cinematic anime style, golden sunset lighting"*
+
+<img width="1415" height="619" alt="Prompt and result for capturing the excitement of a World Cup-style atmosphere" src="https://github.com/user-attachments/assets/f98968fe-8d32-47cc-a9a4-d6e8ca93b548" />
 
 *Prompt and result for capturing the excitement of a World Cup-style atmosphere*
 
