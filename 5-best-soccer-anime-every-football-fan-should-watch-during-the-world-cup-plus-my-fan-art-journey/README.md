@@ -1,5 +1,7 @@
 **5 Best Soccer Anime to Watch During the World Cup (and How They Inspired Me to Create Anime Fan Art)**
 
+![Hero image V3](Hero%20image%20V3.png)
+
 I'm big on soccer, especially the FIFA World Cup. But this World Cup is different. For the first time, I'm not just watching matches. I'm rewatching some of my best soccer anime between games.
 
 **How the 2026 World Cup Sent Me Back to Soccer Anime**
