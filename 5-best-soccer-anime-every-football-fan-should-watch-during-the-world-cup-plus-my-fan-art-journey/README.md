@@ -12,6 +12,8 @@ The real matches give me the stakes, but this time, those anime breaks between m
 
 So this World Cup, I fell back into a handful of soccer anime I genuinely love, for very different reasons. And somewhere around the third rewatch, I ended up somewhere I didn't expect: trying to make my own soccer anime fan art of these characters. More on that later. First, the anime.
 
+<img width="1672" height="941" alt="Five soccer anime, five different takes on the beautiful game" src="https://github.com/user-attachments/assets/4c3d5ac9-3827-4485-8f9b-b0fc152b9585" />
+
 *Five soccer anime, five different takes on the beautiful game*
 
 **The 5 Best Soccer Anime I'd Recommend to Any Football Fan**
